@@ -1,0 +1,3 @@
+root:
+    file_name:"train_0001.jpg"
+    ground_truth:"cj_fh_1"
